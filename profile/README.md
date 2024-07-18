@@ -4,13 +4,6 @@
 
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+    <a href="https://github.com/AL-STORE"><img alt="AL-STORE Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AL-STORE&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
+  <a href="https://github.com/AL-STORE"><img alt="AL-STORE Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AL-STORE&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
